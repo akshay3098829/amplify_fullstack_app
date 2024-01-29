@@ -13,7 +13,7 @@ function App({signOut}) {
     <View>
       <Card>
         <Image src={logo} className='App-logo' alt ="logo"/>
-        <Heading level={1}>You have succesfully Login</Heading>
+        <Heading level={1}>You have succesfully Login!!!!!!!</Heading>
       </Card>
       <Button onClick={signOut}>Log Out</Button>
     </View>
